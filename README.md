@@ -1,5 +1,5 @@
 # pm-challenge-robert-cabral
-# TV App
+![Alt text](/client/source/assets/tv.svg?raw=true) # TV App
 
 Simple React + Node Web application using TV Maze API
 
