@@ -19,7 +19,7 @@ const header = () => {
             <Col xs={3} md={1}><Image bsPrefix="rounded float-left" src={icon}/></Col>
             <Col xs={5} md={5}>
               <Row bsPrefix='text-white'><h1>TV Maze App</h1></Row>
-              <Row bsPrefix='text-white'><p> Search for your favorite TV via Maze API!</p></Row>
+              <Row bsPrefix='text-white'><p> Search for your favorite TV shows via Maze API!</p></Row>
             </Col>
             </Row>
           </Container>
