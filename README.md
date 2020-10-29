@@ -29,7 +29,7 @@ yarn install-all
 ```
 yarn local
 ```
-* This will start the application on Port 9001 and Port 5000 for Backend Services.
+* This will start the application on Port 3000 and Port 5000 for Backend Services.
 
 ## Help
 
