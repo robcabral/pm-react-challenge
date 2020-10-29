@@ -11,8 +11,7 @@ This application utilizes ReactJS, NodeJS, Express, Bootstrap.
 
 ### Dependencies
 
-* Node Version 8.5.0
-* NPM Version 5.8.0
+* Node Version v15.0.1
 * Yarn Version 1.6.0
 
 ### Installing
